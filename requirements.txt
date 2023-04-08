@@ -1,0 +1,6 @@
+tqdm
+transformers  # for huggingface transformers (to load GPT-2 checkpoints)
+datasets  # for huggingface datasets (if you want to download + preprocess OpenWebText)
+tiktoken  # for OpenAI's fast BPE code
+# langchain
+# wandb  # for optional logging
