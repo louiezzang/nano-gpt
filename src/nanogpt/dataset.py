@@ -1,5 +1,5 @@
 """
-PyTorch Dataset for recGPT.
+PyTorch Dataset for GPT.
 
 @author Younggue
 """
